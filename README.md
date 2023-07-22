@@ -18,7 +18,8 @@ I compare K-means with or without extracting the top 3 PCs, using a simulated da
 **Part 2 Comparing demographic and election data:** <br />
 In this part, we will explore how socio-economical similarity between cities relates to similarity in voting
 patterns Based on Hierarchical clustering and dendrogram trees.<br />
-Finally, for comparing two dendrogram trees, we will use [Baker's Gamma](https://rdrr.io/cran/dendextend/man/cor_bakers_gamma.html) a similarity score for two trees.<br />
-<img src="" width="60%" height="30%"> <br />
+Finally, we create and compare two dendrogram tree hierarchical trees for the elections data. and hierarchical tree for the demographic data.<br />
+We will use [Baker's Gamma](https://rdrr.io/cran/dendextend/man/cor_bakers_gamma.html)a similarity score for two trees.<br />
+<img src="https://github.com/Amityaron/Lab-2-Elections-and-RNA-sequencing/blob/main/lab2%20image%203.png" width="60%" height="30%"> <br />
 **Part 3 exploratory analysis of RNA seq data with Shiny apps:** <br />*
 I Used Cluster dendrogram and Baker gamma index 
