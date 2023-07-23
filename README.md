@@ -28,4 +28,4 @@ Each row signies a gene, and every column a tissue type (e.g. Heart, Exposed Sk
 Skin)..<br />
 The value measures the median expression level of the gene across multiple samples of the same tissue..<br />
 Values are positive, with zero meaning there is no indication of the gene in the tissue..<br />
-<img src="https://github.com/Amityaron/Lab-2-Elections-and-RNA-sequencing/blob/main/Screenshot.png" width="70%" height="40%"> <br />
+<img src="https://github.com/Amityaron/Lab-2-Elections-and-RNA-sequencing/blob/main/Screenshot.png"> <br />
